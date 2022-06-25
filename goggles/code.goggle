@@ -4,13 +4,13 @@
 ! author: Willi Alexander
 ! avatar: #6a0dad
 
-$boost=3,site=freecodecamp.org
-$boost=3,site=w3schools.com
-$boost=3,site=stackoverflow.com
-$boost=3,site=github.com
-$boost=3,site=stackexchange.com
-$boost=3,site=dev.to
-$boost=2,site=realpython.com
-$boost=2,site=reddit.com
-$boost=1,site=codepen.io
+$boost,site=freecodecamp.org
+$boost,site=w3schools.com
+$boost,site=stackoverflow.com
+$boost,site=github.com
+$boost,site=stackexchange.com
+$boost,site=dev.to
+$boost,site=realpython.com
+$boost,site=reddit.com
+$boost,site=codepen.io
 $discard,site=youtube.com
