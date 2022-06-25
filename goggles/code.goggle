@@ -1,0 +1,17 @@
+! name: Code
+! description: Rerank results to get faster code responses.
+! public: true
+! author: Willi Alexander
+! avatar: #6a0dad
+
+$boost=3,site=freecodecamp.org
+$boost=3,site=w3schools.com
+$boost=3,site=stackoverflow.com
+$boost=3,site=github.com
+$boost=3,site=stackexchange.com
+$boost=3,site=dev.to
+$boost=2,site=realpython.com
+$boost=2,site=reddit.com
+$boost=2,site=youtube.com
+$boost=1,site=codepen.io
+$boost=1,site=quora.com
