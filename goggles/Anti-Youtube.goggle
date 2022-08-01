@@ -1,0 +1,9 @@
+! name: Anti Youtube
+! description: Easy way to remove Youtube videos from your searches.
+! public: true
+! author: Willi Alexander
+! avatar: #FF0000
+
+$discard,site=google.com
+$discard,site=youtube.com
+$discard,site=youtu.be
