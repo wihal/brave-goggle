@@ -4,6 +4,9 @@
 ! author: Willi Alexander
 ! avatar: #6a0dad
 
+$discard,site=google.com
+$discard,site=youtube.com
+$discard,site=youtu.be
 $boost,site=freecodecamp.org
 $boost,site=w3schools.com
 $boost,site=stackoverflow.com
