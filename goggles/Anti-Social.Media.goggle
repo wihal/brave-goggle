@@ -4,7 +4,9 @@
 ! author: Willi Alexander
 ! avatar: #FFA000
 
-
+$discard,site=google.com
+$discard,site=google.de
+$discard,site=about.google
 $discard,site=youtube.com
 $discard,site=youtu.be
 $discard,site=gvt1.com
