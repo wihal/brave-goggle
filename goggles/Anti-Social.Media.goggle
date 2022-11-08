@@ -1,7 +1,7 @@
 ! name: Social Media
 ! description: Easy way to remove Social Media content from your searches.
 ! public: true
-! author: Willi Alexander
+! author: Willi
 ! avatar: #FFA000
 
 $discard,site=google.com
