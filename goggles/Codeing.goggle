@@ -1,9 +1,21 @@
-! name: Anti Youtube
-! description: Easy way to remove Youtube videos from your searches.
+! name: Code
+! description: Easy way to reorder results to get faster code responses..
 ! public: True
 ! author: Willi
-! avatar: #FF0000
+! avatar: #6a0dad
 
+! Boosts 
+$boost,site=freecodecamp.org
+$boost,site=w3schools.com
+$boost,site=stackoverflow.com
+$boost,site=github.com
+$boost,site=stackexchange.com
+$boost,site=dev.to
+$boost,site=realpython.com
+$boost,site=reddit.com
+$boost,site=codepen.io
+
+! Youtube Discards (Personaly I dont like youtube for searching)
 $discard,site=youtube.com
 $discard,site=youtu.be
 $discard,site=gvt1.com
